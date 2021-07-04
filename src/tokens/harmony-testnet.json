@@ -38,5 +38,13 @@
     "name": "OneChainlink",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0xD9719517D5e2ac707E33dA21b04eB5BCE7FB3Fa2",
+    "symbol": "POWER",
+    "name": "Power",
+    "decimals": 18,
+    "logoURI": "https://storage.googleapis.com/powerswap-7cdb2.appspot.com/192x192_App_Icon.png"
   }
 ]
